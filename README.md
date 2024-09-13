@@ -1,5 +1,7 @@
 Kostiantyn Tsymbal
+What is it?
 This code is classical encryption based on substituting letters for other letters using characters and strings
-I used for this project labs, class readings, stack overflows and Professor Osera colabarated on code debugging
-I worked with Grant Sackman
-[https://gitfront.io/r/Koastg/3m5xDHppMcQU/Classical-Encryption/](https://github.com/Koast-g/Classical._encryption.git)
+Resources:
+For this particular porject I have used java overflow, assistance of Professor Osera, orical java docs
+I worked with Grant Sackman, worked together on debugging and styling the code
+https://github.com/Koast-g/Classical._encryption.git
